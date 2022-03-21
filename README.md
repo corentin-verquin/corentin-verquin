@@ -21,4 +21,4 @@
 <h3 align="left">Project:</h3>
 <p><img src="https://github-readme-stats.vercel.app/api/pin/?username=corentin-verquin&repo=cv"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/pin/?username=corentin-verquin&repo=cv-back"/><img src="https://github-readme-stats.vercel.app/api/pin/?username=corentin-verquin&repo=docker-net"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/pin/?username=corentin-verquin&repo=ply-reader"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=corentin-verquin&show_icons=true&locale=en&layout=compact" alt="corentin-verquin" /><img align="left" src="https://github-readme-stats.vercel.app/api?username=corentin-verquin&show_icons=true&locale=en" alt="corentin-verquin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=corentin-verquin&show_icons=true&locale=en" alt="corentin-verquin" /></p>
